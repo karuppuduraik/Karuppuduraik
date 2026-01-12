@@ -56,33 +56,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=karuppuduraik&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppuduraik&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
 <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karuppuduraik&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=karuppuduraik&border_radius=5.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karuppuduraik&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -124,10 +104,6 @@
 ---
 
 <div align="center">
-
-
-
-![Snake animation](https://raw.githubusercontent.com/karuppuduraik/karuppuduraik/main/output/github-contribution-grid-snake-dark.svg)
 
 
 </div>
