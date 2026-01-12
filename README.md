@@ -51,18 +51,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=karuppuduraik&border_radius=5.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-
----
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -98,12 +86,5 @@
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
