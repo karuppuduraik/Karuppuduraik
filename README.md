@@ -12,16 +12,16 @@
 
 <!-- ===== SOCIAL BADGES ===== -->
 <p align="center">
-  <a href="https://linkedin.com/in/karuppudurai-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/karuppudurai-k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:karuppudurai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/karuppuduraik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/karuppuduraik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:karuppuduraikece@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!-- ===== PROFILE STATS ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karuppudurai-k&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/karuppudurai-k?label=Followers&style=for-the-badge&color=3B82F6" />
-  <img src="https://img.shields.io/github/stars/karuppudurai-k?label=Stars&style=for-the-badge&color=8B5CF6" />
+  <img src="https://komarev.com/ghpvc/?username=karuppuduraik&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/karuppuduraik?label=Followers&style=for-the-badge&color=3B82F6" />
+  <img src="https://img.shields.io/github/stars/karuppuduraik?label=Stars&style=for-the-badge&color=8B5CF6" />
 </p>
 
 <br/>
@@ -82,7 +82,7 @@ mindset: Always learning, always building 🚀
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karuppudurai-k&bg_color=0d1117&color=7c3aed&line=3b82f6&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karuppuduraik&bg_color=0d1117&color=7c3aed&line=3b82f6&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <br/>
@@ -91,16 +91,16 @@ mindset: Always learning, always building 🚀
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karuppudurai-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karuppuduraik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppudurai-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karuppudurai-k&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karuppuduraik&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karuppudurai-k&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=karuppuduraik&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
 </p>
 
 <br/>
@@ -109,9 +109,9 @@ mindset: Always learning, always building 🚀
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/karuppudurai-k"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/karuppudurai-k"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:karuppudurai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/karuppuduraik"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/karuppuduraik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:karuppuduraikece@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <br/>
