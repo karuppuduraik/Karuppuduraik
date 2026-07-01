@@ -1,12 +1,12 @@
 <!-- ===== HEADER BANNER ===== -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karuppudurai%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karuppudurai%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="header"/>
 </h1>
 
 <!-- ===== TYPING SVG ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%E2%80%A2+React+%E2%80%A2+MySQL;REST+API+Builder+%F0%9F%9A%80;Problem+Solver+%E2%9A%A1;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+Express.js;Spring+Boot+%E2%80%A2+MySQL;REST+API+Builder+%F0%9F%9A%80;Problem+Solver+%E2%9A%A1;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,19 +25,32 @@
 </p>
 
 <br/>
-
-<!-- ===== ABOUT ME ===== -->
-<h2 align="center">💫 About Me</h2>
+## 💫 About Me
 
 ```yaml
 name: Karuppudurai K
-role: Java Full Stack Developer
-stack: [Java, Spring Boot, React, MySQL]
-focus: Building scalable web apps & clean REST APIs
+role: Full Stack Developer
+
+frontend:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+
+backend:
+  - Node.js
+  - Express.js
+  - Java
+  - Spring Boot
+
+database:
+  - MySQL
+  - MongoDB
+
+focus: Building scalable web applications & REST APIs
+
 mindset: Always learning, always building 🚀
 ```
-
-<br/>
 
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -53,13 +66,15 @@ mindset: Always learning, always building 🚀
 
 <p align="center">
   <b>Backend</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
-
 <p align="center">
   <b>Database</b><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -70,10 +85,12 @@ mindset: Always learning, always building 🚀
 
 <p align="center">
   <b>Tools</b><br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
 <br/>
@@ -92,11 +109,11 @@ mindset: Always learning, always building 🚀
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=karuppuduraik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppudurai-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppuduraik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karuppuduraik&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=karuppuduraik&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
