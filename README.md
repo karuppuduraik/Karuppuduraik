@@ -50,8 +50,6 @@ focus: Building scalable web applications & REST APIs
 mindset: Always learning, always building 🚀
 ```
 
-<br/>
-
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
