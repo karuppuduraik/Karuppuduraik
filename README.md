@@ -25,6 +25,8 @@
 </p>
 
 <br/>
+## 💫 About Me
+
 ```yaml
 name: Karuppudurai K
 role: Full Stack Developer
@@ -50,7 +52,6 @@ focus: Building scalable web applications & REST APIs
 mindset: Always learning, always building 🚀
 ```
 
-<br/>
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -112,7 +113,7 @@ mindset: Always learning, always building 🚀
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=karuppuduraik&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=karuppuduraik&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
